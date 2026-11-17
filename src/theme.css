@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fondo {
+  --background: #f2f5fa;
+}
+.conversor {
+  max-width: 520px;
+  margin: 36px auto;
+  border-radius: 18px;
+  box-shadow: 0 8px 26px rgba(20, 45, 80, 0.10);
+}
+.conversor h1 {
+  font-size: 25px;
+  font-weight: 700;
+  margin: 8px 0;
+}
+.descripcion {
+  color: #637083;
+  line-height: 1.5;
+  margin-bottom: 24px;
+}
+.resultado {
+  background: #edf4ff;
+  border-radius: 14px;
+  text-align: center;
+  padding: 18px 10px;
+  margin: 24px 0;
+}
+.resultado p {
+  color: #53647a;
+  margin: 0 0 8px;
+}
+.resultado h2 {
+  color: #1457a6;
+  font-size: 30px;
+  margin: 0;
+  font-weight: 700;
+}
+.tipo-cambio {
+  text-align: center;
+  color: #6b7788;
+  font-size: 13px;
+  margin-top: 18px;
+}
